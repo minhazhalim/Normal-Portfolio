@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "This is my Personal Portfolio Website to Showcase my Projects",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "compile": "npx tailwindcss -i main.css -o style.css --watch"
+  },
+  "author": "Minhaz Halim",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
